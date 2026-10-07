@@ -1,0 +1,9 @@
+name = "open-property"
+main = "src/server/index.ts"
+compatibility_date = "2025-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "open-property-db"
+database_id = "f4ff2bd7-2605-42a0-a084-cb7857ac4b2c"
